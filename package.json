@@ -1,0 +1,19 @@
+{
+  "name": "covid19-server",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/oml33t/covid19-server.git"
+  },
+  "author": "oml33t",
+  "license": "GPL-3.0-only",
+  "bugs": {
+    "url": "https://github.com/oml33t/covid19-server/issues"
+  },
+  "homepage": "https://github.com/oml33t/covid19-server#readme"
+}
