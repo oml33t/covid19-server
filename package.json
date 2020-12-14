@@ -26,7 +26,7 @@
     "test": "npm run lint && npm run mocha",
     "lint": "eslint src/. test/. --config .eslintrc.json --fix",
     "dev": "nodemon src/",
-    "start": "NODE_ENV=production node src/",
+    "start": "node src/",
     "mocha": "mocha test/ --recursive --exit"
   },
   "standard": {
