@@ -8,4 +8,4 @@ https://www.kaggle.com/sudalairajkumar/novel-corona-virus-2019-dataset?select=co
 
 - Install *mongoimport* by following https://docs.atlas.mongodb.com/import/mongoimport/
 
-- `mongoimport --uri "mongodb+srv://<username>:<password></password>@cluster0.etvin.mongodb.net/data" --collection covid19_data --drop --type=csv --headerline --file .\covid_19_data.csv`
+- `mongoimport --uri "mongodb+srv://<username>:<password>@cluster0.etvin.mongodb.net/data" --collection covid19_data --drop --type=csv --headerline --file .\covid_19_data.csv`
